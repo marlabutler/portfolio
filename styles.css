@@ -1,0 +1,140 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 17px;
+    color: brown;
+    line-height: 1.6;
+}
+
+body {
+    background: url("./assets/sand.jpg");
+    background-size: cover;
+    /* background-position: center; */
+    height: 100vh;
+}
+
+/* .container {
+    display: flex;
+    justify-content: space-between;
+    background: transparent;
+    margin: 0;
+    width: 100vw; 
+} */
+
+a.nav-link {
+    display: flex;
+    list-style-type: none;
+    color: brown;
+}   
+
+.nav-link {
+    color: brown;
+}
+
+.nav-item {
+    padding: 0 10px;
+    /* color: brown; */
+}
+
+#hello {
+    margin-top: 100px;
+}
+
+#about-me h1 {
+    margin-top: 100px;
+}
+
+#projects {
+    margin-top: 100px;
+}
+
+#col {
+    margin: 300px;
+}
+
+#work-experience {
+    margin-top: 100px;
+}
+
+/* .btn {
+    background-color: brown;
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+  /* Darker background on mouse-over */
+/* .btn:hover {
+    background-color: beige;
+} */
+
+#btn {
+    background-color: white;
+    color: brown;
+    border-color: brown;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.btn:hover {
+    background-color: beige;
+}
+
+#col {
+    border: 2px solid brown;
+    border-radius: 3px;
+    padding: 2%;
+}
+
+.cardImg {
+    height: 350px;
+    width: 300px;
+    object-fit: cover;
+}
+
+#card {
+    width: 302px;
+    }
+
+#footer {
+    background-color: grey;
+    align-content: center;
+}
+
+#label {
+    text-align: center;
+}
+
+#footer {
+    text-align: center;
+    margin-bottom: 20%;
+}
+
+.projects-styling {
+    margin-top: -200px;
+}
+
+.work-history {
+    margin-top: -200px; 
+}
+
+input {
+    width: auto;
+    height: 50px;
+    box-sizing: border-box;
+}
+
+#contact-me {
+    margin-top: 100px;
+    margin: auto;
+    padding: 20px;
+    width: 500px;
+    height: 400px;
+}
+
+
